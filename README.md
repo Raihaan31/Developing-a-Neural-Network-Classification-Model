@@ -11,7 +11,6 @@ In their existing market, the sales team has classified all customers into 4 seg
 You are required to help the manager to predict the right group of the new customers.
 
 ## Neural Network Model
-Include the neural network model diagram.
 <img width="757" height="917" alt="image" src="https://github.com/user-attachments/assets/11d519f7-1343-4500-9ecc-913582e5b88d" />
 
 
@@ -88,19 +87,15 @@ optimizer = optim.Adam(model.parameters(),lr=0.001)
 
 ```
 ### Dataset Information
-Include screenshot of the dataset.
 <img width="1168" height="291" alt="image" src="https://github.com/user-attachments/assets/500d3687-0e66-495a-be72-a6c394ef28e7" />
 
 
 ### OUTPUT
 
 ## Confusion Matrix
-
-Include confusion matrix here
 <img width="1086" height="609" alt="image" src="https://github.com/user-attachments/assets/003c7956-f238-4c88-9744-1ed987829bca" />
 
 ## Classification Report
-Include classification report here
 <img width="492" height="351" alt="image" src="https://github.com/user-attachments/assets/01f2eff4-bba1-4ad1-a6b5-914483193f2e" />
 
 
@@ -109,4 +104,4 @@ Include your sample input and output here
 <img width="278" height="77" alt="image" src="https://github.com/user-attachments/assets/05b09339-8ad5-4580-a730-1cbab9f4bd82" />
 
 ## RESULT
-Include your result here
+The neural network classification model was executed successfully and customer segments (A, B, C, and D) were predicted accurately for the given dataset.
